@@ -13,6 +13,8 @@ gem 'rails-controller-testing'
 
 gem "bootstrap-sass",  "3.4.1"
 
+gem "bcrypt", "3.1.16"
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
